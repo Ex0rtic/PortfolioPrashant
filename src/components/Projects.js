@@ -92,6 +92,15 @@ import img116 from "../assets/img/img116.jpg";
 import img117 from "../assets/img/img117.jpg";
 import img118 from "../assets/img/img118.jpg";
 import img119 from "../assets/img/img119.jpg";
+import img120 from "../assets/img/img120.png";
+import img121 from "../assets/img/img121.png";
+import img122 from "../assets/img/img122.png";
+import img123 from "../assets/img/img123.png";
+import img124 from "../assets/img/img124.png";
+import img125 from "../assets/img/img125.png";
+import img126 from "../assets/img/img126.png";
+import img127 from "../assets/img/img127.png";
+import img128 from "../assets/img/img128.png";
 
 
 
@@ -241,6 +250,21 @@ export const Projects = () => {
       description: "Design & Development",
       imgUrl: img32,
     },
+    {
+      title: "Pen-Drive Architecture Design",
+      description: "Design & Development",
+      imgUrl: img120,
+    },
+    {
+      title: "Mercedes Architecture Design",
+      description: "Design & Development",
+      imgUrl: img121,
+    },
+    {
+      title: "Fidget Spinner Architecture Design",
+      description: "Design & Development",
+      imgUrl: img122,
+    }
   ];
 
   const projects1 = [
@@ -364,6 +388,21 @@ export const Projects = () => {
       title: "Minion Bollard",
       imgUrl: img62,
     },
+    {
+      title: "Architecture Design 1",
+      description: "Design & Development",
+      imgUrl: img123,
+    },
+    {
+      title: "Architecture Design 2",
+      description: "Design & Development",
+      imgUrl: img124,
+    },
+    {
+      title: "India Architecture Design",
+      description: "Design & Development",
+      imgUrl: img125,
+    }
   ];
   
   const projects3 = [
@@ -487,6 +526,21 @@ export const Projects = () => {
       title: "Pokémon Trainers and Pals",
       imgUrl: img119,
     },
+    {
+      title: "Origami Architecture Design",
+      description: "Design & Development",
+      imgUrl: img126,
+    },
+    {
+      title: "Honda Architecture Design",
+      description: "Design & Development",
+      imgUrl: img127,
+    },
+    {
+      title: "Helmet Architecture Design",
+      description: "Design & Development",
+      imgUrl: img128,
+    }
   ];
   return (
     <section className="project" id="projects">
