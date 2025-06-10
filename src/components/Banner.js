@@ -59,7 +59,6 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Prashant`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "sds Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>I am a passionate and versatile creative professional with skills in illustration, digital art, sketching, story writing, character design, and sculpting. With a strong eye for detail and storytelling, I bring characters and narratives to life across various mediums. Whether it's crafting compelling visual stories or designing unique characters, I thrive on turning imagination into impactful art.</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
