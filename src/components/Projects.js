@@ -101,6 +101,15 @@ import img125 from "../assets/img/img125.png";
 import img126 from "../assets/img/img126.png";
 import img127 from "../assets/img/img127.png";
 import img128 from "../assets/img/img128.png";
+import img131 from "../assets/img/img131.png";
+import img132 from "../assets/img/img132.png";
+import img133 from "../assets/img/img133.png";
+import img134 from "../assets/img/img134.png";
+import img135 from "../assets/img/img135.png";
+import img136 from "../assets/img/img136.png";
+import img137 from "../assets/img/img137.png";
+import img138 from "../assets/img/img138.png";
+import img139 from "../assets/img/img139.png";
 
 
 
@@ -264,6 +273,21 @@ export const Projects = () => {
       title: "Fidget Spinner Architecture Design",
       description: "Design & Development",
       imgUrl: img122,
+    },
+    {
+      title: "Apple Architecture Design",
+      description: "Design & Development",
+      imgUrl: img131,
+    },
+    {
+      title: " Glass Dome Architecture Design",
+      description: "Design & Development",
+      imgUrl: img132,
+    },
+    {
+      title: "Heart-shaped Architecture Design",
+      description: "Design & Development",
+      imgUrl: img133,
     }
   ];
 
@@ -402,6 +426,21 @@ export const Projects = () => {
       title: "India Architecture Design",
       description: "Design & Development",
       imgUrl: img125,
+    },
+    {
+      title: "Modern Cylindrical Skyscraper",
+      description: "Design & Development",
+      imgUrl: img134,
+    },
+    {
+      title: "Abstract Red and Grey Architecture Design",
+      description: "Design & Development",
+      imgUrl: img135,
+    },
+    {
+      title: "Cylindrical Architecture Design",
+      description: "Design & Development",
+      imgUrl: img136,
     }
   ];
   
@@ -540,6 +579,21 @@ export const Projects = () => {
       title: "Helmet Architecture Design",
       description: "Design & Development",
       imgUrl: img128,
+    },
+    {
+      title: "Architectural Model with Red Accents",
+      description: "Design & Development",
+      imgUrl: img137,
+    },
+    {
+      title: "Modern Architecture Design 1",
+      description: "Design & Development",
+      imgUrl: img138,
+    },
+    {
+      title: "Modern Architecture Design 2",
+      description: "Design & Development",
+      imgUrl: img139,
     }
   ];
   return (
