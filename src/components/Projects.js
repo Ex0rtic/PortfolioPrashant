@@ -110,7 +110,10 @@ import img136 from "../assets/img/img136.png";
 import img137 from "../assets/img/img137.png";
 import img138 from "../assets/img/img138.png";
 import img139 from "../assets/img/img139.png";
-
+import img140 from "../assets/img/img140.jpg";
+import img141 from "../assets/img/img141.jpg";
+import img142 from "../assets/img/img142.jpg";
+import img143 from "../assets/img/img143.jpg";
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -283,6 +286,26 @@ export const Projects = () => {
       title: " Glass Dome Architecture Design",
       description: "Design & Development",
       imgUrl: img132,
+    },
+     {
+      title: "Squid Game in Mumbai",
+      description: "Design & Development",
+      imgUrl: img140,
+    },
+     {
+      title: "Petal Ballerina",
+      description: "Design & Development",
+      imgUrl: img141,
+    },
+     {
+      title: "Tea Stall Gamer",
+      description: "Design & Development",
+      imgUrl: img142,
+    },
+     {
+      title: "Dubai Cyber Rider",
+      description: "Design & Development",
+      imgUrl: img143,
     },
     {
       title: "Heart-shaped Architecture Design",
