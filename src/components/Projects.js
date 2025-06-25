@@ -114,7 +114,8 @@ import img140 from "../assets/img/img140.jpg";
 import img141 from "../assets/img/img141.jpg";
 import img142 from "../assets/img/img142.jpg";
 import img143 from "../assets/img/img143.jpg";
-
+import img144 from "../assets/img/img144.jpg";
+import img145 from "../assets/img/img145.jpg";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -306,6 +307,16 @@ export const Projects = () => {
       title: "Dubai Cyber Rider",
       description: "Design & Development",
       imgUrl: img143,
+    },
+     {
+      title: "Squid Game Backwater Edition",
+      description: "Design & Development",
+      imgUrl: img144,
+    },
+     {
+      title: "Goan Squid Game",
+      description: "Design & Development",
+      imgUrl: img145,
     },
     {
       title: "Heart-shaped Architecture Design",
