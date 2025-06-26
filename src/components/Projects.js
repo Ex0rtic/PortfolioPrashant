@@ -116,6 +116,9 @@ import img142 from "../assets/img/img142.jpg";
 import img143 from "../assets/img/img143.jpg";
 import img144 from "../assets/img/img144.jpg";
 import img145 from "../assets/img/img145.jpg";
+import img146 from "../assets/img/img146.jpg";
+import img147 from "../assets/img/img147.jpg";
+import img148 from "../assets/img/img148.jpg";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -475,6 +478,21 @@ export const Projects = () => {
       title: "Cylindrical Architecture Design",
       description: "Design & Development",
       imgUrl: img136,
+    },
+    {
+      title: "The Fisherman's Walk",
+      description: "Design & Development",
+      imgUrl: img146,
+    },
+    {
+      title: "Striped Seafarer",
+      description: "Design & Development",
+      imgUrl: img147,
+    },
+    {
+      title: "Cybernetic Gaze",
+      description: "Design & Development",
+      imgUrl: img148,
     }
   ];
   
