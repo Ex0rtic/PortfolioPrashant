@@ -119,6 +119,20 @@ import img145 from "../assets/img/img145.jpg";
 import img146 from "../assets/img/img146.jpg";
 import img147 from "../assets/img/img147.jpg";
 import img148 from "../assets/img/img148.jpg";
+import img149 from "../assets/img/img149.jpg";
+import img150 from "../assets/img/img150.jpg";
+import img151 from "../assets/img/img151.jpg";
+import img152 from "../assets/img/img152.jpg";
+import img153 from "../assets/img/img153.jpg";
+import img154 from "../assets/img/img154.jpg";
+import img155 from "../assets/img/img155.jpg";
+import img156 from "../assets/img/img156.jpg";
+import img157 from "../assets/img/img157.jpg";
+import img158 from "../assets/img/img158.jpg";
+import img159 from "../assets/img/img159.jpg";
+import img160 from "../assets/img/img160.jpg";
+import img161 from "../assets/img/img161.jpg";
+import img162 from "../assets/img/img162.jpg";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -325,6 +339,76 @@ export const Projects = () => {
       title: "Heart-shaped Architecture Design",
       description: "Design & Development",
       imgUrl: img133,
+    },
+    {
+      title: "Modernist Skiing",
+      description: "Design & Development",
+      imgUrl: img149,
+    },
+    {
+      title: "Quacking Cowboy",
+      description: "Design & Development",
+      imgUrl: img150,
+    },
+    {
+      title: "Wimbledon Champions Race",
+      description: "Design & Development",
+      imgUrl: img151,
+    },
+    {
+      title: "Koala on a Rollercoaster",
+      description: "Design & Development",
+      imgUrl: img152,
+    },
+    {
+      title: "Cyborg's Seafood Feast",
+      description: "Design & Development",
+      imgUrl: img153,
+    },
+    {
+      title: "Urban Anime Warrior",
+      description: "Design & Development",
+      imgUrl: img154,
+    },
+    {
+      title: "Rooftop Dunk",
+      description: "Design & Development",
+      imgUrl: img155,
+    },
+    {
+      title: "Starbucks House",
+      description: "Design & Development",
+      imgUrl: img156,
+    },
+    {
+      title: "Giant Racket at Wimbledon",
+      description: "Design & Development",
+      imgUrl: img157,
+    },
+    {
+      title: "Heart-shaped Architecture Design",
+      description: "Design & Development",
+      imgUrl: img158,
+    },
+    {
+      title: "Wimbledon's Shadow Player",
+      description: "Design & Development",
+      imgUrl: img159,
+    },
+    {
+      title: "Digital Creature in the Palm",
+      description: "Design & Development",
+      imgUrl: img160,
+    },
+    {
+      title: "Warrior and the Water Serpent",
+      description: "Design & Development",
+      imgUrl: img161,
+    },
+    {
+      title: "WALL-E and EVE: Hope on the Moon",
+      description: "Design & Development",
+      imgUrl: img162,
     }
   ];
 
