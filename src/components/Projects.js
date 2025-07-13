@@ -133,6 +133,11 @@ import img159 from "../assets/img/img159.jpg";
 import img160 from "../assets/img/img160.jpg";
 import img161 from "../assets/img/img161.jpg";
 import img162 from "../assets/img/img162.jpg";
+import img163 from "../assets/img/img163.jpg";
+import img164 from "../assets/img/img164.jpg";
+import img165 from "../assets/img/img165.jpg";
+import img166 from "../assets/img/img166.jpg";
+import img167 from "../assets/img/img167.jpg";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -404,6 +409,41 @@ export const Projects = () => {
       title: "Warrior and the Water Serpent",
       description: "Design & Development",
       imgUrl: img161,
+    },
+    {
+      title: "Warrior and the Water Serpent",
+      description: "Design & Development",
+      imgUrl: img161,
+    },
+    {
+      title: "Warrior and the Water Serpent",
+      description: "Design & Development",
+      imgUrl: img161,
+    },
+    {
+      title: "The Mechanical Guardian",
+      description: "Design & Development",
+      imgUrl: img163,
+    },
+    {
+      title: "Crimson Abstraction Over the Lake",
+      description: "Design & Development",
+      imgUrl: img164,
+    },
+    {
+      title: "Floating Monolith with Eye",
+      description: "Design & Development",
+      imgUrl: img165,
+    },
+    {
+      title: "Circuit Board Building",
+      description: "Design & Development",
+      imgUrl: img166,
+    },
+    {
+      title: "Pink Walker on the Horizon",
+      description: "Design & Development",
+      imgUrl: img167,
     },
     {
       title: "WALL-E and EVE: Hope on the Moon",
