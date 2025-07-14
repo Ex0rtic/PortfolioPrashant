@@ -138,6 +138,8 @@ import img164 from "../assets/img/img164.jpg";
 import img165 from "../assets/img/img165.jpg";
 import img166 from "../assets/img/img166.jpg";
 import img167 from "../assets/img/img167.jpg";
+import img168 from "../assets/img/img168.jpg";
+import img169 from "../assets/img/img169.jpg";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -411,14 +413,14 @@ export const Projects = () => {
       imgUrl: img161,
     },
     {
-      title: "Warrior and the Water Serpent",
+      title: "Lord Ganesha",
       description: "Design & Development",
-      imgUrl: img161,
+      imgUrl: img168,
     },
     {
-      title: "Warrior and the Water Serpent",
+      title: "Future of Agriculture",
       description: "Design & Development",
-      imgUrl: img161,
+      imgUrl: img169,
     },
     {
       title: "The Mechanical Guardian",
