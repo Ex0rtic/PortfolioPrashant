@@ -140,6 +140,12 @@ import img166 from "../assets/img/img166.jpg";
 import img167 from "../assets/img/img167.jpg";
 import img168 from "../assets/img/img168.jpg";
 import img169 from "../assets/img/img169.jpg";
+import img170 from "../assets/img/img170.jpg";
+import img171 from "../assets/img/img171.jpg";
+import img172 from "../assets/img/img172.jpg";
+import img173 from "../assets/img/img173.jpg";
+import img174 from "../assets/img/img174.jpg";
+
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -446,6 +452,35 @@ export const Projects = () => {
       title: "Pink Walker on the Horizon",
       description: "Design & Development",
       imgUrl: img167,
+    },
+    {
+      title: "Feline Dental Check-up",
+      description: "Design & Development",
+      imgUrl: img170,
+    },
+    
+    {
+      title: "Big Ben and the London Bus Shoes",
+      description: "Design & Development",
+      imgUrl: img171,
+    },
+    
+    {
+      title: "Citrus Dome",
+      description: "Design & Development",
+      imgUrl: img172,
+    },
+    
+    {
+      title: "Indian Astronaut",
+      description: "Design & Development",
+      imgUrl: img173,
+    },
+    
+    {
+      title: "Navigating Flooded Streets",
+      description: "Design & Development",
+      imgUrl: img174,
     },
     {
       title: "WALL-E and EVE: Hope on the Moon",
