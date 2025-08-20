@@ -145,6 +145,26 @@ import img171 from "../assets/img/img171.jpg";
 import img172 from "../assets/img/img172.jpg";
 import img173 from "../assets/img/img173.jpg";
 import img174 from "../assets/img/img174.jpg";
+import img175 from "../assets/img/img175.jpg";
+import img176 from "../assets/img/img176.jpg";
+import img177 from "../assets/img/img177.jpg";
+import img178 from "../assets/img/img178.jpg";
+import img179 from "../assets/img/img179.jpg";
+import img180 from "../assets/img/img180.jpg";
+import img181 from "../assets/img/img181.jpg";
+import img182 from "../assets/img/img182.jpg";
+import img183 from "../assets/img/img183.jpg";
+import img184 from "../assets/img/img184.jpg";
+import img185 from "../assets/img/img185.jpg";
+import img186 from "../assets/img/img186.jpg";
+import img187 from "../assets/img/img187.jpg";
+import img188 from "../assets/img/img188.jpg";
+import img189 from "../assets/img/img189.jpg";
+import img190 from "../assets/img/img190.jpg";
+import img191 from "../assets/img/img191.jpg";
+import img192 from "../assets/img/img192.jpg";
+import img193 from "../assets/img/img193.jpg";
+import img194 from "../assets/img/img194.jpg";
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -486,6 +506,106 @@ export const Projects = () => {
       title: "WALL-E and EVE: Hope on the Moon",
       description: "Design & Development",
       imgUrl: img162,
+    },
+    {
+      title: "Octopus Adventurer at the Water Park",
+      description: "Design & Development",
+      imgUrl: img175,
+    },
+    {
+      title: "Monster Prankster in the Roadside Pothole",
+      description: "Design & Development",
+      imgUrl: img176,
+    },
+    {
+      title: "Learning Road Engineering from Nature's Pothole",
+      description: "Design & Development",
+      imgUrl: img177,
+    },
+    {
+      title: "Pothole Fishing",
+      description: "Design & Development",
+      imgUrl: img178,
+    },
+    {
+      title: "Baby Krishna",
+      description: "Design & Development",
+      imgUrl: img179,
+    },
+    {
+      title: "Giant Microphone",
+      description: "Design & Development",
+      imgUrl: img180,
+    },
+    {
+      title: "Obelix on a Hot Air Balloon",
+      description: "Design & Development",
+      imgUrl: img181,
+    },
+    {
+      title: "Chicken on Vacation",
+      description: "Design & Development",
+      imgUrl: img182,
+    },
+    {
+      title: "Spongebob at the Subway Station",
+      description: "Design & Development",
+      imgUrl: img183,
+    },
+    {
+      title: "Toaster Spaceship",
+      description: "Design & Development",
+      imgUrl: img184,
+    },
+    {
+      title: "Cartoon Car Gate",
+      description: "Design & Development",
+      imgUrl: img185,
+    },
+    {
+      title: "Swimmers Flying Over a River",
+      description: "Design & Development",
+      imgUrl: img186,
+    },
+    {
+      title: "Spaceship in the Cosmos",
+      description: "Design & Development",
+      imgUrl: img187,
+    },
+    {
+      title: "Goddess Applying Eyeliner",
+      description: "Design & Development",
+      imgUrl: img188,
+    },
+    {
+      title: "Llama Skyscraper",
+      description: "Design & Development",
+      imgUrl: img189,
+    },
+    {
+      title: "Tichkule Water Harvesting Scheme",
+      description: "Design & Development",
+      imgUrl: img190,
+    },
+    {
+      title: "Qutub Minar Festival",
+      description: "Design & Development",
+      imgUrl: img191,
+    },
+    {
+      title: "Girl Floating in a Pothole",
+      description: "Design & Development",
+      imgUrl: img192,
+    },
+    {
+      title: "Calvin and Hobbes by the Road",
+      description: "Design & Development",
+      imgUrl: img193,
+    },
+    {
+      title: "Perry's Concert at Victoria Memorial",
+      description: "Design & Development",
+      imgUrl: img194,
     }
   ];
 
