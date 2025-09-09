@@ -168,7 +168,7 @@ import img194 from "../assets/img/img194.jpg";
 import img195 from "../assets/img/img195.jpg";
 import img196 from "../assets/img/img196.jpg";
 import img197 from "../assets/img/img197.jpg";
-import img198 from "../assets/img/img198.webp";
+import img198 from "../assets/img/img198.jpg";
 import img199 from "../assets/img/img199.jpg";
 import img200 from "../assets/img/img200.jpg";
 import img201 from "../assets/img/img201.jpg";
