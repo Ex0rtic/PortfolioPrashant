@@ -165,6 +165,14 @@ import img191 from "../assets/img/img191.jpg";
 import img192 from "../assets/img/img192.jpg";
 import img193 from "../assets/img/img193.jpg";
 import img194 from "../assets/img/img194.jpg";
+import img195 from "../assets/img/img195.jpg";
+import img196 from "../assets/img/img196.jpg";
+import img197 from "../assets/img/img197.jpg";
+import img198 from "../assets/img/img198.webp";
+import img199 from "../assets/img/img199.jpg";
+import img200 from "../assets/img/img200.jpg";
+import img201 from "../assets/img/img201.jpg";
+import img202 from "../assets/img/img202.jpg";
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -606,6 +614,46 @@ export const Projects = () => {
       title: "Perry's Concert at Victoria Memorial",
       description: "Design & Development",
       imgUrl: img194,
+    },
+    {
+      title: "A Giant Lens on an Iconic Building",
+      description: "Design & Development",
+      imgUrl: img195,
+    },
+    {
+      title: "The Camera's View",
+      description: "Design & Development",
+      imgUrl: img196,
+    },
+    {
+      title: "A Ride on a Plesiosaur",
+      description: "Design & Development",
+      imgUrl: img197,
+    },
+    {
+      title: "The Dynamic Duo Takes Fligh",
+      description: "Design & Development",
+      imgUrl: img198,
+    },
+    {
+      title: "Nobita's Big Tears",
+      description: "Design & Development",
+      imgUrl: img199,
+    },
+    {
+      title: "Flying High Over Traffic",
+      description: "Design & Development",
+      imgUrl: img200,
+    },
+    {
+      title: "A Lab-Coat Duo",
+      description: "Design & Development",
+      imgUrl: img201,
+    },
+    {
+      title: "Popcorn Buddies",
+      description: "Design & Development",
+      imgUrl: img202,
     }
   ];
 
